@@ -2,13 +2,13 @@
 # See README.md for instructions on how to do this
 def fizzbuzz (int)
   if int % 3 == 0
-    "Fizz"
+    fizz_3 = "Fizz"
   end
   if int % 5 == 0
-    "Buzz"
+  fizz_5 =  "Buzz"
   end
   if int % 3 == 0 && int % 5 == 0
-    "FizzBuzz"
+    fizz_15 = "FizzBuzz"
   end
 else
 "nil"
