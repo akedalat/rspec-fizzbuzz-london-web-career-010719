@@ -13,5 +13,5 @@ def fizzbuzz (int)
   fizz_5 =  "Buzz"
   return fizz_5
   end
-  
+
 end
