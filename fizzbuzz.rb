@@ -10,6 +10,5 @@ def fizzbuzz (int)
   if int % 3 == 0 && int % 5 == 0
     fizz_15 = "FizzBuzz"
   end
-else
-"nil"
+
 end
